@@ -25,4 +25,5 @@ func main(){
 ```
 
 - Package: Go programlama dili packagelar ile birlikte çalışıyor bu yüzden dosyada package olmak zorunda. İçerisinde package olan kod sayfalarıyla iletişim halinde olmamızı sağlar. Go programları paketler halinde çalıştığı için bu zorunlu bir ifadedir. 'main' ifadesi ise bizim dosyamızın adıdır.
-- import "fmt": 'import' terimi yazıldığı pakete başka bir paketten özellik eklemeye yarar. 
+- import "fmt": 'import' terimi yazıldığı pakete başka bir paketten özellik eklemeye yarayan kütüphaneyi içe aktarır.
+- func main(): Programımızın yürütülmesinin başladığı ana işlevdir. Süslü parantezlerin içerisine yazdığımız fmt kütüphanesinin Println metodu ile "Hello, World!" yazdırıyoruz. 
