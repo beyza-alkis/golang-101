@@ -7,4 +7,7 @@ Golang öğrenirken aldığım notlarla bir kaynakça oluşturmaya karar verdim.
 
 --------
 
-[Chapter-1](https://pages.github.com/).
+* [Chapter-1](https://github.com/beyza-alkis/golang-101/blob/master/chapter-1/main.go)
+
+ **"Hello, World!" Örneği**
+
