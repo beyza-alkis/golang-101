@@ -45,6 +45,11 @@ go run .
 go build main.go
 ```
 
+- Eğer oluşturduğumuz '.go' dosyası birden fazla bölümden ulaşıyorsa bu komut ile klasörlere build işlemi yapabiliyoruz.
+```
+go build .
+```
+
 
 
 
